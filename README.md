@@ -1,7 +1,7 @@
 # Service Spot: Call Center Analysis
 
 <h2>Power BI Project Overview</h2> 
-<h5>Group: Alexandra CURRAN, Clémence ROLDAN, Mathilde ROMAN</h5>
+<h5>Group members: Alexandra CURRAN, Clémence ROLDAN, Mathilde ROMAN</h5>
 
 </br>
 An IT company called Service Spot requested the creation of dashboards to gain insights on their call center data.</br></br>
